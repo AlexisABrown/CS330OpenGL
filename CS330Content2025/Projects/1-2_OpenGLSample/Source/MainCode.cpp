@@ -45,7 +45,7 @@
 namespace
 {
 	// Macro for window title
-	const char* const WINDOW_TITLE = "OpenGL Sample"; 
+	const char* const WINDOW_TITLE = "Alexis Prazak"; 
 
 	// Main GLFW window
 	GLFWwindow* g_Window = nullptr;
